@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 - 📫 How to reach me:
   - You can contact me through email at [micu.georgealexandru@gmail.com](mailto:micu.georgealexandru@gmail.com).
-  - You can also connect with me on LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/micu-george-alexandru-493b701ba/)).
+  - You can also connect with me on LinkedIn: [Alex Micu](https://www.linkedin.com/in/micu-george-alexandru-493b701ba/).
 
 Feel free to explore the repositories on my profile, and I hope you find something interesting here! If you have any questions, suggestions, or just want to say hi, don't hesitate to get in touch. Happy coding! 😄
 
