@@ -17,5 +17,4 @@ Feel free to explore the repositories on my profile, and I hope you find somethi
 <!---
 Al3x-Myku/Al3x-Myku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-ceva comment
 --->
