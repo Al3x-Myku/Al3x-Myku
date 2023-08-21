@@ -1,4 +1,3 @@
-# 👋 Hi, I’m @Al3x-Myku
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
