@@ -13,7 +13,7 @@
 💞️ I’m always open to collaborating on exciting projects related to my areas of interest.
   If you have an interesting project that aligns with my skills, feel free to reach out!
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Al3x-Myku&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Al3x-Myku&include_all_commits=true&hide_border=true&theme=dark) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al3x-Myku&show_icons=true&count_private=true&hide_border=true&theme=dark) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Al3x-Myku&include_all_commits=true&hide_border=true&theme=dark) |
 |:---:|:---:|
 | GitHub Stats | Streak Stats |
 
