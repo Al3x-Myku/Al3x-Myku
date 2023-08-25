@@ -15,7 +15,7 @@
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al3x-Myku&show_icons=true&count_private=true&hide_border=true&theme=dark) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Al3x-Myku&include_all_commits=true&hide_border=true&theme=dark) |
 |:---:|:---:|
-| GitHub Stats | Streak Stats |
+
 
  <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3x-Myku&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=false&theme=dark&hide=">
