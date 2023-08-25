@@ -1,10 +1,14 @@
 # 👋 Hi, I’m @Al3x-Myku
 <img src="https://github.com/Al3x-Myku/Al3x-Myku/blob/master/photos/DOG.png" width="100">
+
+
  👀 I’m interested in Cybersecurity, DevOps, Networking, Docker, and IT in general.
   I have a passion for exploring and understanding the vast world of technology and its applications.
+  
 
 🌱 I’m currently expanding my knowledge in various areas of interest, with a focus on improving my skills in
   Backend programming, DevOps methodologies, Networking protocols, and leveraging the power of Docker for containerization.
+  
 
 💞️ I’m always open to collaborating on exciting projects related to my areas of interest.
   If you have an interesting project that aligns with my skills, feel free to reach out!
@@ -14,7 +18,7 @@
 | GitHub Stats | Streak Stats |
 
  <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3x-Myku&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=Dockerfile,Gnuplot">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3x-Myku&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=false&theme=dark&hide=Dockerfile,Gnuplot">
 </p>
 
 
@@ -44,6 +48,8 @@
         </tr>
     </table>
 </p>
+
+---
 
 # Technologies
 ### Langueges
