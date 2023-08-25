@@ -79,7 +79,7 @@
 ![MeisterTask](https://img.shields.io/badge/meistertask-%230A0FFF.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![RedisInsight](https://img.shields.io/badge/RedisInsight-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Vs Code](https://img.shields.io/badge/Vs%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white")
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white")
+![Git](https://img.shields.io/badge/git-gray.svg?style=for-the-badge&logo=git&logoColor=white")
 
 --- 
 
