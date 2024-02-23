@@ -89,7 +89,15 @@
 <p>
 	<a href="mailto:micu.georgealexandru@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/micu-george-alexandru-493b701ba/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://ko-fi.com/alexmicukofi"><img src="https://img.shields.io/badge/Kofi-%236F4E37.svg?style=for-the-badge&logo=Kofi&logoColor=white" alt="LinkedIn"/></a>
+
+<p align="center">
+  <a href="https://ko-fi.com/G2G3UUBIU">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
+  </a>
+</p>
+
+
+
 
 Feel free to explore the repositories on my profile, and I hope you find something interesting here! If you have any questions, suggestions, or just want to say hi, don't hesitate to get in touch. Happy coding! 😄
 
