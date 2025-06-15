@@ -2,7 +2,7 @@
 <img src="https://github.com/Al3x-Myku/Al3x-Myku/blob/master/photos/DOG.png" width="100">
 
 
- 👀 I’m interested in Cybersecurity, DevOps, Networking, Docker, and IT in general.
+ 👀 I’m interested in Cybersecurity, DevOps, Networking, and IT in general.
   I have a passion for exploring and understanding the vast world of technology and its applications.
   
 
