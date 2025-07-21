@@ -45,8 +45,8 @@
 		</a>
 	    </td>
 	<td align="centre">
- 		<a href="https://github.com/Al3x-Myku/web-login">
-   			 <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Al3x-Myku&repo=web-login&hide_border=true&theme=radical">
+ 		<a href="https://github.com/Al3x-Myku/Debt-Blockchain">
+   			 <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Al3x-Myku&repo=Debt-Blockchain&hide_border=true&theme=radical">
 		</a>
 	</td>
 
