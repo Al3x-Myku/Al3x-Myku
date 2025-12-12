@@ -12,12 +12,12 @@
 💞️ I’m always open to collaborating on exciting projects related to my areas of interest.
   If you have an interesting project that aligns with my skills, feel free to reach out!
 
-| ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Al3x-Myku&show_icons=true&count_private=true&hide_border=true&theme=radical) | ![Streak Stats](https://streak-stats.demolab.com/?user=Al3x-Myku&include_all_commits=true&hide_border=true&theme=radical) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al3x-Myku&show_icons=true&count_private=true&hide_border=true&theme=radical) | ![Streak Stats](https://streak-stats.demolab.com/?user=Al3x-Myku&include_all_commits=true&hide_border=true&theme=radical&date=2024) |
 |:---:|:---:|
 
 
 <p align="center">
-	<img width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Al3x-Myku&layout=compact&custom_title=Most%20used%20languages&langs_count=20&include_all_commits=true&hide_progress=false&hide_border=false&theme=radical&hide=">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3x-Myku&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=false&theme=radical&hide=jupyter%20notebook">
 </p>
 
 
@@ -28,24 +28,24 @@
         <tr>
             <td align="center">
                 <a href="https://github.com/FacyOrg/FacyBackend-DevOps">
-                    <img width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FacyOrg&repo=FacyBackend-DevOps&hide_border=true&theme=radical">
+                    <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=FacyOrg&repo=FacyBackend-DevOps&hide_border=true&theme=radical">
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/Al3x-Myku/PassManager">
-                    <img width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Al3x-Myku&repo=PassManager&hide_border=true&theme=radical">
+                    <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Al3x-Myku&repo=PassManager&hide_border=true&theme=radical">
                 </a>
             </td>
         </tr>
 	 <tr>
 	    <td align="center">
 		<a href="https://github.com/Al3x-Myku/Data">
-			 <img width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Al3x-Myku&repo=Data&hide_border=true&theme=radical">
+			 <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Al3x-Myku&repo=Data&hide_border=true&theme=radical">
 		</a>
 	    </td>
 	<td align="center">
  		<a href="https://github.com/Al3x-Myku/Debt-Blockchain">
-   			 <img width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Al3x-Myku&repo=Debt-Blockchain&hide_border=true&theme=radical">
+   			 <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Al3x-Myku&repo=Debt-Blockchain&hide_border=true&theme=radical">
 		</a>
 	</td>
 
