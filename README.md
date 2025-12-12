@@ -1,56 +1,55 @@
 # 👋 Hi, I’m @Al3x-Myku
 <img src="https://github.com/Al3x-Myku/Al3x-Myku/blob/master/photos/DOG.png" width="100">
 
-
- 👀 I’m interested in Cybersecurity, DevOps, Networking, and IT in general.
-  I have a passion for exploring and understanding the vast world of technology and its applications.
-  
+ 👀 I’m interested in Cybersecurity, DevOps, Networking, and IT in general.
+  I have a passion for exploring and understanding the vast world of technology and its applications.
+  
 
 🌱 I’m currently expanding my knowledge in various areas of interest, with a focus on improving my skills in
-  Backend programming, DevOps methodologies, Networking protocols, and leveraging the power of Docker for containerization.
-  
+  Backend programming, DevOps methodologies, Networking protocols, and leveraging the power of Docker for containerization.
+  
 
 💞️ I’m always open to collaborating on exciting projects related to my areas of interest.
-  If you have an interesting project that aligns with my skills, feel free to reach out!
+  If you have an interesting project that aligns with my skills, feel free to reach out!
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al3x-Myku&show_icons=true&count_private=true&hide_border=true&theme=radical) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Al3x-Myku&include_all_commits=true&hide_border=true&theme=radical) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al3x-Myku&show_icons=true&count_private=true&hide_border=true&theme=radical) | ![Streak Stats](https://streak-stats.demolab.com/?user=Al3x-Myku&include_all_commits=true&hide_border=true&theme=radical) |
 |:---:|:---:|
 
 
- <p align="center">
+<p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3x-Myku&layout=compact&custom_title=Most%20used%20languages&langs_count=20&include_all_commits=true&hide_progress=false&hide_border=false&theme=radical&hide=">
 </p>
 
 
 
 # Projects
-<p align="centre">
- <table>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/FacyOrg/FacyBackend-DevOps">
-                    <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=FacyOrg&repo=FacyBackend-DevOps&hide_border=true&theme=radical">
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Al3x-Myku/PassManager">
-                    <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Al3x-Myku&repo=PassManager&hide_border=true&theme=radical">
-                </a>
-            </td>
-        </tr>
+<p align="center">
+ <table>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/FacyOrg/FacyBackend-DevOps">
+                    <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=FacyOrg&repo=FacyBackend-DevOps&hide_border=true&theme=radical">
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Al3x-Myku/PassManager">
+                    <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Al3x-Myku&repo=PassManager&hide_border=true&theme=radical">
+                </a>
+            </td>
+        </tr>
 	 <tr>
-	    <td align="center">
+	    <td align="center">
 		<a href="https://github.com/Al3x-Myku/Data">
 			 <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Al3x-Myku&repo=Data&hide_border=true&theme=radical">
 		</a>
-	    </td>
-	<td align="centre">
- 		<a href="https://github.com/Al3x-Myku/Debt-Blockchain">
-   			 <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Al3x-Myku&repo=Debt-Blockchain&hide_border=true&theme=radical">
+	    </td>
+	<td align="center">
+ 		<a href="https://github.com/Al3x-Myku/Debt-Blockchain">
+   			 <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Al3x-Myku&repo=Debt-Blockchain&hide_border=true&theme=radical">
 		</a>
 	</td>
 
-   </tr>
+   </tr>
 	 </table>
 </p>
 
@@ -83,26 +82,21 @@
 ![Vs Code](https://img.shields.io/badge/Vs%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white")
 ![Git](https://img.shields.io/badge/git-gray.svg?style=for-the-badge&logo=git&logoColor=white")
 
---- 
+--- 
 
 ### Contact
 - 📫 How to reach me:
 <p>
-	<a href="mailto:micu.georgealexandru@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:micu.georgealexandru@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/micu-george-alexandru-493b701ba/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <p align="center">
-  <a href="https://ko-fi.com/G2G3UUBIU">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
-  </a>
+  <a href="https://ko-fi.com/G2G3UUBIU">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
+  </a>
 </p>
 
 
 
 
 Feel free to explore the repositories on my profile, and I hope you find something interesting here! If you have any questions, suggestions, or just want to say hi, don't hesitate to get in touch. Happy coding! 😄
-
-<!---
-Al3x-Myku/Al3x-Myku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
