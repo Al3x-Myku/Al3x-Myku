@@ -3,24 +3,19 @@
 
  👀 I’m interested in Cybersecurity, DevOps, Networking, and IT in general.
   I have a passion for exploring and understanding the vast world of technology and its applications.
-  
 
 🌱 I’m currently expanding my knowledge in various areas of interest, with a focus on improving my skills in
   Backend programming, DevOps methodologies, Networking protocols, and leveraging the power of Docker for containerization.
-  
 
 💞️ I’m always open to collaborating on exciting projects related to my areas of interest.
   If you have an interesting project that aligns with my skills, feel free to reach out!
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al3x-Myku&show_icons=true&count_private=true&hide_border=true&theme=radical) | ![Streak Stats](https://streak-stats.demolab.com/?user=Al3x-Myku&include_all_commits=true&hide_border=true&theme=radical&date=2024) |
+| ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Al3x-Myku&show_icons=true&count_private=true&hide_border=true&theme=radical) | ![Streak Stats](https://streak-stats.demolab.com/?user=Al3x-Myku&include_all_commits=true&hide_border=true&theme=radical) |
 |:---:|:---:|
 
-
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3x-Myku&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=false&theme=radical&hide=jupyter%20notebook">
+	<img width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Al3x-Myku&layout=compact&custom_title=Most%20used%20languages&langs_count=20&include_all_commits=true&hide_progress=false&hide_border=false&theme=radical&hide=jupyter%20notebook">
 </p>
-
-
 
 # Projects
 <p align="center">
@@ -28,24 +23,24 @@
         <tr>
             <td align="center">
                 <a href="https://github.com/FacyOrg/FacyBackend-DevOps">
-                    <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=FacyOrg&repo=FacyBackend-DevOps&hide_border=true&theme=radical">
+                    <img width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=FacyOrg&repo=FacyBackend-DevOps&hide_border=true&theme=radical">
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/Al3x-Myku/PassManager">
-                    <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Al3x-Myku&repo=PassManager&hide_border=true&theme=radical">
+                    <img width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Al3x-Myku&repo=PassManager&hide_border=true&theme=radical">
                 </a>
             </td>
         </tr>
 	 <tr>
 	    <td align="center">
 		<a href="https://github.com/Al3x-Myku/Data">
-			 <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Al3x-Myku&repo=Data&hide_border=true&theme=radical">
+			 <img width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Al3x-Myku&repo=Data&hide_border=true&theme=radical">
 		</a>
 	    </td>
 	<td align="center">
  		<a href="https://github.com/Al3x-Myku/Debt-Blockchain">
-   			 <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=Al3x-Myku&repo=Debt-Blockchain&hide_border=true&theme=radical">
+   			 <img width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Al3x-Myku&repo=Debt-Blockchain&hide_border=true&theme=radical">
 		</a>
 	</td>
 
@@ -95,8 +90,3 @@
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
   </a>
 </p>
-
-
-
-
-Feel free to explore the repositories on my profile, and I hope you find something interesting here! If you have any questions, suggestions, or just want to say hi, don't hesitate to get in touch. Happy coding! 😄
