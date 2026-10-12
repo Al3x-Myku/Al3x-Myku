@@ -1,0 +1,25 @@
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily at 03:17 UTC
+  workflow_dispatch:        # run manually from the Actions tab
+
+permissions:
+  contents: write           # lets the action commit the generated SVGs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # GITHUB_TOKEN only sees public data. For private stats, create a
+          # classic PAT with `repo` scope, save it as the secret SUMMARY_PAT,
+          # and use: ${{ secrets.SUMMARY_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: master
